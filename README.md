@@ -1,4 +1,4 @@
-# andresmanikis.github.io
+# Andrés Manikis
 
 So here I am, writing a blog. Never done it in my life but I really feel like starting sharing some ideas.
 
